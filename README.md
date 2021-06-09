@@ -1,16 +1,26 @@
-# weather_app
+# Allergy Flare App
 
 A new Flutter application.
 
-## Getting Started
+## Basic Functionalites
+This is a basic implementation of allergy flare application. The functionalites included are as following:
 
-This project is a starting point for a Flutter application.
+- **Getting weather info**
+- Searching weather of specific location
+- Showing relavent smyptoms.
+- Showing all symptoms.
+- Managing Notifitcation
+- **Chat Application**
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies and Tools
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- **Flutter**
+- **Dart**
+- **Android Studio**
+- **Firebase Firestore Databse**
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Submitted By:
+- FA19-BCS-040 ( MOMIN ALI SARWAR )
+- FA19-BCS-041 ( MUHAMMAD AHMED )
+
+
