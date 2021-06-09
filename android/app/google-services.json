@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "907585887003",
+    "project_id": "allergy-flare",
+    "storage_bucket": "allergy-flare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907585887003:android:2675cce00aaa31d78d51be",
+        "android_client_info": {
+          "package_name": "com.vanitexgames.weather_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907585887003-0hqc8vllm4g5osh3sqhhre98hl5eh1gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvQbMuWIalMKz4IKKr0nZWwxBCFAPHGlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907585887003-0hqc8vllm4g5osh3sqhhre98hl5eh1gf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
